@@ -62,22 +62,22 @@ if (isset($_GET['reset'])) {
             </div>
             <ul class="navbar__menu">
                 <li class="navbar__item">
-                    <a href="index.html" class="navbar__links">Home</a>
+                    <a href="homepage.php" class="navbar__links">Home</a>
                 </li>
                 <li class="navbar__item">
-                    <a href="map.html" class="navbar__links">Careers</a>
+                    <a href="map.php" class="navbar__links">Careers</a>
                 </li>
                 <li class="navbar__item">
-                    <a href="about.html" class="navbar__links">About</a>
+                    <a href="about.php" class="navbar__links">About</a>
                 </li>
                 <li class="navbar__item">
-                    <a href="contact.html" class="navbar__links">Contact</a>
+                    <a href="contact.php" class="navbar__links">Contact</a>
                 </li>
                 <li class="navbar__item">
                     <a href="tools.php" class="navbar__links">Tools</a>
                 </li>
                 <li class="navbar__btn">
-                    <a href="sign up.html" class="button">Sign up</a>
+                    <a href="sign up.php" class="button">Sign up</a>
                 </li>
             </ul>
         </div>
@@ -119,15 +119,15 @@ if (isset($_GET['reset'])) {
             <div class="footer__link--wrapper">
                 <div class="footer__link--items">
                     <h2>About us</h2>
-                    <a href="about.html">How it works</a>
+                    <a href="about.php">How it works</a>
                     <!-- <a href="/">Testimonials</a> -->
-                    <a href="map.html">careers</a>
+                    <a href="map.php">careers</a>
                     <!-- <a href="/">Partners</a> -->
                 </div>
                 <div class="footer__link--items">
                     <h2>Contact us</h2>
-                    <a href="contact.html">contact</a>
-                    <!-- <a href="contact.html">support</a> -->
+                    <a href="contact.php">contact</a>
+                    <!-- <a href="contact.php">support</a> -->
                     <!-- <a href="/">sponsorships</a> -->
                 </div>
             </div>
@@ -135,7 +135,7 @@ if (isset($_GET['reset'])) {
                 <div class="footer__link--items">
                     <h2>Follow</h2>
                   
-                    <a href="https://github.com/punsher77777/Tech-Map">Github</a>
+                    <a href="https://github.com/punsher77777/Tech-Map/tree/Full-Dynamic-Version" target="_blank">Github</a>
                 </div>
                 <div class="footer__link--items">
                     <h2>Legal</h2>
@@ -147,7 +147,7 @@ if (isset($_GET['reset'])) {
         <div class="social__media">
             <div class="social__media--wrap">
                 <div class="footer__logo">
-                    <a href="index.html" id="footer__logo"><i class="fa-solid fa-laptop-code"></i>TECH-MAP</a>
+                    <a href="homepage.php" id="footer__logo"><i class="fa-solid fa-laptop-code"></i>TECH-MAP</a>
                 </div>
                 <p class="website__rights">Tech-Map 2022. All rights Reserved</p>
                 <div class="social__icons">

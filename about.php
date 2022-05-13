@@ -121,7 +121,7 @@
         <div class="footer__link--wrapper">
             <div class="footer__link--items">
                 <h2>Follow</h2>
-                <a href="https://github.com/punsher77777/Tech-Map">Github</a>
+                <a href="https://github.com/punsher77777/Tech-Map/tree/Full-Dynamic-Version">Github</a>
             </div>
             <div class="footer__link--items">
                 <h2>Legal</h2>
@@ -133,7 +133,7 @@
     <div class="social__media">
         <div class="social__media--wrap">
             <div class="footer__logo">
-                <a href="index.html" id="footer__logo"><i class="fa-solid fa-laptop-code"></i>TECH-MAP</a>
+                <a href="homepage.php" id="footer__logo"><i class="fa-solid fa-laptop-code"></i>TECH-MAP</a>
             </div>
          <p class="website__rights">Tech-Map 2022. All rights Reserved</p>
          <div class="social__icons">

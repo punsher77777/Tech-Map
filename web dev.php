@@ -172,7 +172,7 @@
             <div class="footer__link--wrapper">
                 <div class="footer__link--items">
                     <h2>Follow</h2>
-                    <a href="https://github.com/punsher77777/Tech-Map">Github</a>
+                    <a href="https://github.com/punsher77777/Tech-Map/tree/Full-Dynamic-Version" target="_blank">Github</a>
                 </div>
                 <div class="footer__link--items">
                     <h2>Legal</h2>

@@ -113,7 +113,7 @@
                 <div class="footer__link--items">
                     <h2>Contact us</h2>
                     <a href="contact.php">contact</a>
-                    <!-- <a href="contact.html">support</a> -->
+                    <!-- <a href="contact.php">support</a> -->
                     <!-- <a href="/">sponsorships</a> -->
                 </div>
             </div>
@@ -122,7 +122,7 @@
                     <h2>Follow</h2>
                     <!-- <a href="/">Facebook</a> -->
                     <!-- <a href="/">Twitter</a> -->
-                    <a href="https://github.com/punsher77777/Tech-Map">Github</a>
+                    <a href="https://github.com/punsher77777/Tech-Map/tree/Full-Dynamic-Version" target="_blank">Github</a>
                 </div>
                 <div class="footer__link--items">
                     <h2>Legal</h2>
