@@ -121,8 +121,7 @@
         <div class="footer__link--wrapper">
             <div class="footer__link--items">
                 <h2>Follow</h2>
-                <a href="/">LinkedIn</a>
-                <a href="/">Github</a>
+                <a href="https://github.com/punsher77777/Tech-Map">Github</a>
             </div>
             <div class="footer__link--items">
                 <h2>Legal</h2>
