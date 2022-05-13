@@ -73,8 +73,9 @@
         <div class="main__container">
             <div class="main__content">
                 <h2>Tools: <img src="images/tools.png"/></h2>
-                <p>Programming languages for mobile application development include Java, Kotlin, and Flutter in the market for Android development. Java and Kotlin are native that you can select to develop App for one platform at a time. Flutter is a hybrid
-                    language you can use to develop applications both for Android and iOS phones and in iOS you can use objective-c and swift to build your apps.
+                <p>The tools below are a developers best friend we provided you with the tools that almost any developer in any field would use this will make your job easier and faster.
+
+                <br> <br>  You will find below tools ranging from free icons and images until hosting and problem solving so go ahead try them all..
                 </p>
                 <br> <br>
                 <h2>Icons & Fonts:</h2>
